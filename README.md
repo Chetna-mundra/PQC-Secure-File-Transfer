@@ -41,7 +41,7 @@ Use Python 3 with `pip` and virtual-environment support; Python 3.10 or newer is
 Open a terminal in the repository root—the folder containing `mlkem.py` and `app_gui.py`. If cloning the repository, replace the placeholder with its actual GitHub URL:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Chetna-mundra/PQC-Secure-File-Transfer.git
 cd PQC-Secure-File-Transfer
 ```
 
